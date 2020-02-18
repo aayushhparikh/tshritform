@@ -1,0 +1,78 @@
+body {
+	background: #f5f5f5;
+}
+
+h1 {
+	text-align: center;
+	height: 80%;
+	width: 120%;
+	font-size: 90px;
+	font-family: 'Staatliches', cursive;
+	font-weight: bold;
+	background-position: left center;
+ 	background-width: 120;
+
+}
+
+#quantity { 
+
+	font-size: 25px;
+	margin: 65px 35px;
+	white-space: initial;
+	padding: 5px;
+	width: 300px;
+
+ }
+
+ .quantext { 
+
+ 	font-size: 30px;
+ 	font-family: 'Abril Fatface', cursive;
+  	text-align: center;
+  	position: relative;
+  	top: 60px;
+ 	width: 85%;
+  	margin: 0 auto;
+  	padding: 20px 45px;
+  	align-self: center;
+  }
+
+  #size { 
+
+	font-size: 25px;
+	white-space: initial;
+	padding: 5px;
+	width: 300px;
+
+ }
+
+ .sizetext { 
+
+ 	font-size: 30px;
+ 	font-family: 'Abril Fatface', cursive;
+  	text-align: center;
+  	position: relative;
+  	bottom: 40px;
+ 	width: 90%;
+ 	margin-left: 60px;
+  	padding: 30px 0px;
+  }
+
+.selecttext { 
+
+	font-size: 30px;
+ 	font-family: 'Abril Fatface', cursive;
+  	display: inline-block;
+  	margin: 65px 50px 30px 50px;
+  	padding: 45px 65px;
+  	text-decoration: none;
+
+ }
+
+ .tshirtlabels img { 
+
+ 	width: 50px;
+
+
+
+  }
